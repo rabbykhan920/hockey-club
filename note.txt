@@ -36,3 +36,61 @@
 
 
               class="text-[#131318] text-xl font-extrabold"
+
+
+
+        <div
+        class="bg-no-repeat p-24 "
+        
+        style="background-image: url(img/3.png); ">
+       
+        <div class=" text-[#FFFFFF] ">
+          <div class="max-w-md">
+            <h1 class="mb-5 text-3xl font-extrabold">Teenager Program</h1>
+            <p class="mb-5">
+              Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
+              quasi. In deleniti eaque aut repudiandae et a id nisi.
+            </p>
+            <button class="btn btn-primary">Get Started</button>
+          </div>
+        </div>
+      </div>
+
+
+
+
+           <div
+          class="bg-no-repeat p-24  "
+          style= "background-image: url(img/2.png); ">
+         
+          <div class=" text-[#FFFFFF] ">
+            <div class="max-w-md">
+              <h1 class="mb-5 text-3xl font-extrabold">Junior Program</h1>
+              <p class="mb-5">
+                A developmental pathway for young athletes, focusing on  foundational hockey skills, teamwork, and sportsmanship.
+              </p>
+              <button class="btn btn-primary">Get Started</button>
+            </div>
+          </div>
+        </div>
+
+
+
+
+<div
+        class="bg-no-repeat p-24 "
+        
+        style="background-image: url(img/3.png); ">
+       
+        <div class=" text-[#FFFFFF] ">
+          <div class="max-w-md">
+            <h1 class="mb-2 md:text-3xl text-base font-extrabold ">Teenager Program</h1>
+            <p class="mb-2">
+              Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
+              quasi. In deleniti eaque aut repudiandae et a id nisi.
+            </p>
+            <button class="btn bg-primary-colour hover:bg-red-500 text-[#FFFFFF] ">Register Now!</button>
+          </div>
+        </div>
+      </div>
+

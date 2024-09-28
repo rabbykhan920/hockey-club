@@ -21,3 +21,18 @@
                 </div>
                 <!-- slider 3 end -->                
               </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              class="text-[#131318] text-xl font-extrabold"
